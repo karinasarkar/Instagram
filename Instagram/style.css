@@ -1,0 +1,91 @@
+*{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.header{
+    background-color: #fafafa;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.logo{
+    font-size: 24px;
+    padding: 0%;
+}
+.icon{
+    margin: 25px 20px;
+}
+.stories{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+.profile{
+    border: 2px solid palevioletred;
+    border-radius: 100%;
+    width: 60px;
+    height: 60px;
+    padding: 1px;
+
+}
+.post{
+    margin: 20px, 20px ,10px, 20px;
+    padding: 20px; 
+}
+.single{
+    border: 2px solid palevioletred;
+    border-radius: 100%;
+    width: 35px;
+    height: 35px;
+    padding: 1px;
+    float: left;
+}
+.more{
+    height:20px;
+    float: right;
+    }
+
+.name{
+    margin-left: 15px;
+    font-size: 18px;
+    
+}
+.feed{
+    margin-top: 10px;
+}
+.react{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.reactions{
+    float: left;
+    margin-left: 3%;
+    width: 30%;
+    display: flex;
+    justify-content: space-between;
+}
+.save{
+    margin-top: 0%;
+    padding: 0%;
+    float: right;
+}
+.container-3{
+    margin-top: 50px;
+    margin-left: 3%
+}
+.likes{
+    float: left;
+    display: inline;
+}
+.hashtags{
+    color: rgb(3, 3, 177);
+}
+footer{
+    background-color: #fafafa; 
+    
+}
+.own-profile{
+    width: 30px;
+    height: 30px;
+}
+
