@@ -21,6 +21,7 @@
     display: flex;
     justify-content: space-between;
     padding: 20px;
+    margin-top: 90px ;
 }
 .profile{
     border: 2px solid palevioletred;
